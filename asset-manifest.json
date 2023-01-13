@@ -1,18 +1,27 @@
 {
   "files": {
-    "main.css": "/230110react/static/css/main.fc505edb.css",
-    "main.js": "/230110react/static/js/main.adc8cbdc.js",
-    "static/media/PretendardVariable.woff2": "/230110react/static/media/PretendardVariable.36b3a87cd98126711b2b.woff2",
+    "main.css": "/230110react/static/css/main.63265ff1.css",
+    "main.js": "/230110react/static/js/main.5a87cffe.js",
     "static/media/main_img2_pc.jpg": "/230110react/static/media/main_img2_pc.0fcf7919892c04619772.jpg",
     "static/media/main_img3_pc.jpg": "/230110react/static/media/main_img3_pc.8543de32c80db2ef7e28.jpg",
     "static/media/main_img1_pc.jpg": "/230110react/static/media/main_img1_pc.f42677636a1d220415bb.jpg",
+    "static/media/GothamBook.woff": "/230110react/static/media/GothamBook.92a2d712d5a4aba25a7f.woff",
+    "static/media/GothamMedium.woff": "/230110react/static/media/GothamMedium.d23ef85d86b33abc67fe.woff",
+    "static/media/GothamMedium_1.woff": "/230110react/static/media/GothamMedium_1.d23ef85d86b33abc67fe.woff",
+    "static/media/GothamBold.woff": "/230110react/static/media/GothamBold.21941aae773b4b903076.woff",
+    "static/media/GothamBook.woff2": "/230110react/static/media/GothamBook.dc2b493f22ff2ece93de.woff2",
+    "static/media/GothamMedium.woff2": "/230110react/static/media/GothamMedium.4cdfd32ad2f37f946022.woff2",
+    "static/media/GothamMedium_1.woff2": "/230110react/static/media/GothamMedium_1.4cdfd32ad2f37f946022.woff2",
+    "static/media/GothamBold.woff2": "/230110react/static/media/GothamBold.e1f0d25e5591bbf5312a.woff2",
+    "static/media/Gotham-Bold.woff": "/230110react/static/media/Gotham-Bold.3820edb403025d468e65.woff",
+    "static/media/Gotham-Bold.woff2": "/230110react/static/media/Gotham-Bold.f8ff2da4bd76e45ad8e1.woff2",
     "index.html": "/230110react/index.html",
     "static/media/instagram.svg": "/230110react/static/media/instagram.843934f677d29c618eb4.svg",
-    "main.fc505edb.css.map": "/230110react/static/css/main.fc505edb.css.map",
-    "main.adc8cbdc.js.map": "/230110react/static/js/main.adc8cbdc.js.map"
+    "main.63265ff1.css.map": "/230110react/static/css/main.63265ff1.css.map",
+    "main.5a87cffe.js.map": "/230110react/static/js/main.5a87cffe.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc505edb.css",
-    "static/js/main.adc8cbdc.js"
+    "static/css/main.63265ff1.css",
+    "static/js/main.5a87cffe.js"
   ]
 }
